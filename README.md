@@ -30,7 +30,7 @@ const athira = {
   title: "Recent B.Tech IT Graduate | Full-Stack Developer | AI/ML Enthusiast",
 
   stack: [
-    "C", "Python", "Java", "JavaScript", "SQL",
+    "C", "Python", "Java", "JavaScript",
     "HTML", "CSS", "React.js", "Redux Toolkit",
     "Node.js", "Express.js", "Flask",
     "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly",
@@ -125,10 +125,6 @@ A solar energy prediction project where I contributed to the **Machine Learning 
 </p>
 
 ### AI / ML & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
