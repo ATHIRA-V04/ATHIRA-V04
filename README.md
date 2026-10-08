@@ -1,5 +1,6 @@
 <div align="center">
-# Hi, I'm Athira V 👋
+
+### 👋 Hi, I'm Athira V
 
 ### Recent B.Tech IT Graduate | Full-Stack Developer | AI/ML Enthusiast
 
@@ -29,41 +30,26 @@ const athira = {
   title: "Recent B.Tech IT Graduate | Full-Stack Developer | AI/ML Enthusiast",
 
   stack: [
-    "C",
-    "Python",
-    "Java",
-    "JavaScript",
-    "SQL",
-    "HTML",
-    "CSS",
-    "React.js",
-    "Redux Toolkit",
-    "Node.js",
-    "Express.js",
-    "Flask",
-    "Pandas",
-    "NumPy",
-    "Matplotlib",
-    "Seaborn",
-    "Plotly",
-    "LangChain",
-    "LLaMA 2",
-    "MongoDB",
-    "MySQL",
-    "Pinecone",
-    "Git",
-    "GitHub",
-    "REST APIs",
-    "JWT",
-    "Vite",
+    "C", "Python", "Java", "JavaScript", "SQL",
+    "HTML", "CSS", "React.js", "Redux Toolkit",
+    "Node.js", "Express.js", "Flask",
+    "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly",
+    "LangChain", "LLaMA 2",
+    "MongoDB", "MySQL", "Pinecone",
+    "Git", "GitHub", "REST APIs", "JWT", "Vite"
   ],
 
-  launchedProjects: ["MERN Music Player", "Solar Energy Prediction"],
+  launchedProjects: [
+    "MERN Music Player",
+    "Solar Energy Prediction"
+  ],
 
-  certifications: ["NPTEL Software Testing — IIT Kharagpur"],
+  certifications: [
+    "NPTEL Software Testing — IIT Kharagpur"
+  ],
 
   status: "Recent B.Tech IT Graduate",
-  openTo: "Full-Stack Development and AI/ML opportunities",
+  openTo: "Full-Stack Development and AI/ML opportunities"
 };
 ```
 
@@ -77,13 +63,13 @@ A full-stack music player built with the MERN stack, featuring authentication, p
 
 [![MERN Music Player](https://github-readme-stats.vercel.app/api/pin/?username=ATHIRA-V04&repo=FULLSTACK-MUSIC-PLAYER&theme=nord&border_color=0F4C81&title_color=1E88C8)](https://github.com/ATHIRA-V04/FULLSTACK-MUSIC-PLAYER)
 
-| Area           | Technologies            |
-| -------------- | ----------------------- |
-| Frontend       | React.js, Redux Toolkit |
-| Backend        | Node.js, Express.js     |
-| Database       | MongoDB                 |
-| Authentication | JWT                     |
-| Tools          | Vite, REST APIs         |
+| Area | Technologies |
+|---|---|
+| Frontend | React.js, Redux Toolkit |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Authentication | JWT |
+| Tools | Vite, REST APIs |
 
 **Live:** Not available  
 **Code:** [GitHub Repository](https://github.com/ATHIRA-V04/FULLSTACK-MUSIC-PLAYER)
@@ -100,12 +86,12 @@ A solar energy prediction project where I contributed to the **Machine Learning 
 - Contributed to the prediction workflow
 - Worked with the project through my fork
 
-| Area         | Details                                      |
-| ------------ | -------------------------------------------- |
-| Project      | Solar Energy Prediction                      |
-| Contribution | Machine Learning component                   |
-| Work         | ML model development and prediction workflow |
-| Repository   | Fork of `AdithyanVm/SolarEnergyPrediction`   |
+| Area | Details |
+|---|---|
+| Project | Solar Energy Prediction |
+| Contribution | Machine Learning component |
+| Work | ML model development and prediction workflow |
+| Repository | Fork of `AdithyanVm/SolarEnergyPrediction` |
 
 **Live:** Not available  
 **Code:** [My Fork](https://github.com/ATHIRA-V04/SolarEnergyPrediction)
