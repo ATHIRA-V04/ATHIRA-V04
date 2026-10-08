@@ -1,4 +1,7 @@
 <div align="center">
+# Hi, I'm Athira V 👋
+
+### Recent B.Tech IT Graduate | Full-Stack Developer | AI/ML Enthusiast
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ATHIRA%20V&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&color=0F4C81&color2=1E88C8" width="100%"/>
 
@@ -26,24 +29,41 @@ const athira = {
   title: "Recent B.Tech IT Graduate | Full-Stack Developer | AI/ML Enthusiast",
 
   stack: [
-    "C", "Python", "Java", "JavaScript", "SQL",
-    "HTML", "CSS", "React.js", "Redux Toolkit",
-    "Node.js", "Express.js", "Flask",
-    "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly",
-    "LangChain", "LLaMA 2",
-    "MongoDB", "MySQL", "Pinecone",
-    "Git", "GitHub", "REST APIs", "JWT", "Vite"
+    "C",
+    "Python",
+    "Java",
+    "JavaScript",
+    "SQL",
+    "HTML",
+    "CSS",
+    "React.js",
+    "Redux Toolkit",
+    "Node.js",
+    "Express.js",
+    "Flask",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "Plotly",
+    "LangChain",
+    "LLaMA 2",
+    "MongoDB",
+    "MySQL",
+    "Pinecone",
+    "Git",
+    "GitHub",
+    "REST APIs",
+    "JWT",
+    "Vite",
   ],
 
-  launchedProjects: [
-    "MERN Music Player",
-    "Solar Energy Prediction"
-  ],
+  launchedProjects: ["MERN Music Player", "Solar Energy Prediction"],
 
-  certifications: [],
+  certifications: ["NPTEL Software Testing — IIT Kharagpur"],
 
   status: "Recent B.Tech IT Graduate",
-  openTo: "Full-Stack Development and AI/ML opportunities"
+  openTo: "Full-Stack Development and AI/ML opportunities",
 };
 ```
 
@@ -57,13 +77,13 @@ A full-stack music player built with the MERN stack, featuring authentication, p
 
 [![MERN Music Player](https://github-readme-stats.vercel.app/api/pin/?username=ATHIRA-V04&repo=FULLSTACK-MUSIC-PLAYER&theme=nord&border_color=0F4C81&title_color=1E88C8)](https://github.com/ATHIRA-V04/FULLSTACK-MUSIC-PLAYER)
 
-| Area | Technologies |
-|---|---|
-| Frontend | React.js, Redux Toolkit |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Authentication | JWT |
-| Tools | Vite, REST APIs |
+| Area           | Technologies            |
+| -------------- | ----------------------- |
+| Frontend       | React.js, Redux Toolkit |
+| Backend        | Node.js, Express.js     |
+| Database       | MongoDB                 |
+| Authentication | JWT                     |
+| Tools          | Vite, REST APIs         |
 
 **Live:** Not available  
 **Code:** [GitHub Repository](https://github.com/ATHIRA-V04/FULLSTACK-MUSIC-PLAYER)
@@ -80,40 +100,48 @@ A solar energy prediction project where I contributed to the **Machine Learning 
 - Contributed to the prediction workflow
 - Worked with the project through my fork
 
-| Area | Details |
-|---|---|
-| Project | Solar Energy Prediction |
-| Contribution | Machine Learning component |
-| Work | ML model development and prediction workflow |
-| Repository | Fork of `AdithyanVm/SolarEnergyPrediction` |
+| Area         | Details                                      |
+| ------------ | -------------------------------------------- |
+| Project      | Solar Energy Prediction                      |
+| Contribution | Machine Learning component                   |
+| Work         | ML model development and prediction workflow |
+| Repository   | Fork of `AdithyanVm/SolarEnergyPrediction`   |
 
 **Live:** Not available  
 **Code:** [My Fork](https://github.com/ATHIRA-V04/SolarEnergyPrediction)
 
-> **Note:** The Solar Energy Prediction repository is currently private, so a public GitHub project-stat card is not used here. The direct repository link above is used instead to avoid broken "User Repository Not Found" cards.
+---
+
+## 📜 Certifications
+
+- **Software Testing** — NPTEL, IIT Kharagpur
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,mysql" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,python,java,js" alt="Languages"/>
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,redux,vite" alt="Frontend"/>
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend"/>
 </p>
 
 ### AI / ML & Data
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mongodb,mysql" alt="AI ML and Databases"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
 <p>
@@ -127,7 +155,14 @@ A solar energy prediction project where I contributed to the **Machine Learning 
   <img src="https://img.shields.io/badge/Pinecone-0F4C81?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
 </p>
 
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+</p>
+
 ### Developer Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub"/>
   <img src="https://img.shields.io/badge/REST%20APIs-0F4C81?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
