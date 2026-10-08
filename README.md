@@ -40,9 +40,7 @@ const athira = {
     "Solar Energy Prediction"
   ],
 
-  certifications: [
-    "NPTEL Software Testing — IIT Kharagpur"
-  ],
+  certifications: [],
 
   status: "Recent B.Tech IT Graduate",
   openTo: "Full-Stack Development and AI/ML opportunities"
@@ -92,38 +90,30 @@ A solar energy prediction project where I contributed to the **Machine Learning 
 **Live:** Not available  
 **Code:** [My Fork](https://github.com/ATHIRA-V04/SolarEnergyPrediction)
 
----
-
-## 📜 Certifications
-
-- **Software Testing** — NPTEL, IIT Kharagpur
+> **Note:** The Solar Energy Prediction repository is currently private, so a public GitHub project-stat card is not used here. The direct repository link above is used instead to avoid broken "User Repository Not Found" cards.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java,js" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,mysql" alt="Languages"/>
 </p>
 
 ### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,redux,vite" alt="Frontend"/>
 </p>
 
 ### Backend
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend"/>
 </p>
 
 ### AI / ML & Data
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=python,mongodb,mysql" alt="AI ML and Databases"/>
 </p>
 
 <p>
@@ -137,14 +127,7 @@ A solar energy prediction project where I contributed to the **Machine Learning 
   <img src="https://img.shields.io/badge/Pinecone-0F4C81?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
 </p>
 
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
-</p>
-
 ### Developer Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub"/>
   <img src="https://img.shields.io/badge/REST%20APIs-0F4C81?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
