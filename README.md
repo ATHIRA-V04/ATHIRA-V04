@@ -40,7 +40,9 @@ const athira = {
     "Solar Energy Prediction"
   ],
 
-  certifications: [],
+  certifications: [
+  "NPTEL Software Testing — IIT Kharagpur"
+],
 
   status: "Recent B.Tech IT Graduate",
   openTo: "Full-Stack Development and AI/ML opportunities"
